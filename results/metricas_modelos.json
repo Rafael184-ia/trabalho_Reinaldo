@@ -1,0 +1,80 @@
+{
+  "melhores_hiperparametros_rf": {
+    "A: 5 dimensões": {
+      "max_depth": 4,
+      "min_samples_leaf": 5
+    },
+    "B: 5 dimensões + edição (Ano)": {
+      "max_depth": 8,
+      "min_samples_leaf": 5
+    }
+  },
+  "metricas": [
+    {
+      "Especificação": "A: 5 dimensões",
+      "Modelo": "Baseline (média)",
+      "R2 (teste)": -0.0055,
+      "MAE (teste)": 0.5656,
+      "RMSE (teste)": 0.7583,
+      "R2 (CV 5-fold)": -0.0157,
+      "R2 CV desvio": 0.0151,
+      "MAE (CV 5-fold)": 0.5157,
+      "RMSE (CV 5-fold)": 0.6708
+    },
+    {
+      "Especificação": "A: 5 dimensões",
+      "Modelo": "Regressão Linear",
+      "R2 (teste)": 0.2702,
+      "MAE (teste)": 0.4885,
+      "RMSE (teste)": 0.6461,
+      "R2 (CV 5-fold)": 0.2046,
+      "R2 CV desvio": 0.1088,
+      "MAE (CV 5-fold)": 0.4466,
+      "RMSE (CV 5-fold)": 0.588
+    },
+    {
+      "Especificação": "A: 5 dimensões",
+      "Modelo": "Random Forest",
+      "R2 (teste)": 0.2329,
+      "MAE (teste)": 0.496,
+      "RMSE (teste)": 0.6624,
+      "R2 (CV 5-fold)": 0.1437,
+      "R2 CV desvio": 0.0945,
+      "MAE (CV 5-fold)": 0.458,
+      "RMSE (CV 5-fold)": 0.6106
+    },
+    {
+      "Especificação": "B: 5 dimensões + edição (Ano)",
+      "Modelo": "Baseline (média)",
+      "R2 (teste)": -0.0055,
+      "MAE (teste)": 0.5656,
+      "RMSE (teste)": 0.7583,
+      "R2 (CV 5-fold)": -0.0157,
+      "R2 CV desvio": 0.0151,
+      "MAE (CV 5-fold)": 0.5157,
+      "RMSE (CV 5-fold)": 0.6708
+    },
+    {
+      "Especificação": "B: 5 dimensões + edição (Ano)",
+      "Modelo": "Regressão Linear",
+      "R2 (teste)": 0.4547,
+      "MAE (teste)": 0.3998,
+      "RMSE (teste)": 0.5585,
+      "R2 (CV 5-fold)": 0.437,
+      "R2 CV desvio": 0.0942,
+      "MAE (CV 5-fold)": 0.3527,
+      "RMSE (CV 5-fold)": 0.496
+    },
+    {
+      "Especificação": "B: 5 dimensões + edição (Ano)",
+      "Modelo": "Random Forest",
+      "R2 (teste)": 0.3955,
+      "MAE (teste)": 0.4123,
+      "RMSE (teste)": 0.588,
+      "R2 (CV 5-fold)": 0.4,
+      "R2 CV desvio": 0.0896,
+      "MAE (CV 5-fold)": 0.3583,
+      "RMSE (CV 5-fold)": 0.5117
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+coluna,dimensao,unidade,descricao,fonte,edicoes_com_dados,min,max,media,pct_nulos
+Localidade,-,Texto,Nome do município goiano (246 municípios),IMB / BDE-Goiás,todas,,,,
+Ano,-,Inteiro,"Edição do IDM (bianual: 2012, 2014, 2016, 2018, 2020, 2024)",IMB / BDE-Goiás,todas,,,,
+IDM Geral,Geral,Pontuação 0-10,Índice sintético geral; é a média das 6 dimensões (NÃO usado como alvo),IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,3.29,6.55,4.74,0.0
+IDM Economia,Economia,Pontuação 0-10,Índice sintético da dimensão Economia,IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,0.25,6.19,1.86,0.0
+IDM Educação,Educação,Pontuação 0-10,Índice sintético da dimensão Educação,IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,1.72,7.72,5.21,0.0
+IDM Infraestrutura,Infraestrutura,Pontuação 0-10,Índice sintético da dimensão Infraestrutura,IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,0.0,7.35,3.3,0.0
+IDM Saúde,Saúde,Pontuação 0-10,Índice sintético da dimensão Saúde,IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,2.57,9.81,7.01,0.0
+IDM Segurança,Segurança,Pontuação 0-10,Índice sintético da dimensão Segurança,IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,1.1,10.0,8.07,0.1
+IDM Trabalho,Trabalho,Pontuação 0-10,Índice sintético da dimensão Trabalho,IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,0.55,7.45,3.02,0.0
+Equilíbrio orçamentário do município,Economia,Pontuação 0-10,"Indicador componente da dimensão Economia, em pontuação padronizada",IMB / BDE-Goiás,2012/2014/2016/2018/2020,0.0,10.0,5.11,16.7
+Evolução do PIB,Economia,Pontuação 0-10,"Indicador componente da dimensão Economia, em pontuação padronizada",IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,0.0,10.0,3.03,0.0
+PIB per capita,Economia,Pontuação 0-10,"Indicador componente da dimensão Economia, em pontuação padronizada",IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,0.0,10.0,1.09,0.0
+Recursos próprios,Economia,Pontuação 0-10,"Indicador componente da dimensão Economia, em pontuação padronizada",IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,0.0,10.0,2.44,0.0
+Setor agropecuário,Economia,Pontuação 0-10,"Indicador componente da dimensão Economia, em pontuação padronizada",IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,0.0,10.0,0.58,0.0
+Setor industrial,Economia,Pontuação 0-10,"Indicador componente da dimensão Economia, em pontuação padronizada",IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,0.0,10.0,0.22,0.0
+Setor de Serviços,Economia,Pontuação 0-10,"Indicador componente da dimensão Economia, em pontuação padronizada",IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,0.0,10.0,0.11,0.0
+Adequação dos professores do ensino infantil,Educação,Pontuação 0-10,"Indicador componente da dimensão Educação, em pontuação padronizada",IMB / BDE-Goiás,2016/2018/2020/2024,0.0,10.0,5.63,33.3
+Adequação dos professores do ensino fundamental,Educação,Pontuação 0-10,"Indicador componente da dimensão Educação, em pontuação padronizada",IMB / BDE-Goiás,2016/2018/2020,0.0,8.2,4.22,50.0
+Adequação dos professores do ensino médio,Educação,Pontuação 0-10,"Indicador componente da dimensão Educação, em pontuação padronizada",IMB / BDE-Goiás,2016/2018/2020,0.0,7.05,3.3,50.0
+Atendimento educacional da população de 4 a 5 anos,Educação,Pontuação 0-10,"Indicador componente da dimensão Educação, em pontuação padronizada",IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,0.0,10.0,5.63,0.0
+Atendimento educacional da população de 6 a 14 anos,Educação,Pontuação 0-10,"Indicador componente da dimensão Educação, em pontuação padronizada",IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,0.0,10.0,6.73,0.0
+Atendimento educacional da população de 15 a 17 anos,Educação,Pontuação 0-10,"Indicador componente da dimensão Educação, em pontuação padronizada",IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,0.0,10.0,4.94,0.0
+IDEB 5º ano,Educação,Pontuação 0-10,"Indicador componente da dimensão Educação, em pontuação padronizada",IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,0.0,10.0,5.88,1.8
+IDEB 9º ano,Educação,Pontuação 0-10,"Indicador componente da dimensão Educação, em pontuação padronizada",IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,0.0,10.0,5.12,1.8
+Infraestrutura dos prédios das escolas públicas urbanas,Infraestrutura,Pontuação 0-10,"Indicador componente da dimensão Infraestrutura, em pontuação padronizada",IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,0.0,10.0,4.08,0.0
+Cobertura da rede de água tratada,Infraestrutura,Pontuação 0-10,"Indicador componente da dimensão Infraestrutura, em pontuação padronizada",IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,0.0,10.0,5.25,0.0
+Cobertura da rede de energia elétrica,Infraestrutura,Pontuação 0-10,"Indicador componente da dimensão Infraestrutura, em pontuação padronizada",IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,0.0,10.0,3.76,0.0
+Cobertura da rede de esgoto,Infraestrutura,Pontuação 0-10,"Indicador componente da dimensão Infraestrutura, em pontuação padronizada",IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,0.0,10.0,1.54,0.0
+Cobertura da rede de telefonia fixa e internet,Infraestrutura,Pontuação 0-10,"Indicador componente da dimensão Infraestrutura, em pontuação padronizada",IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,0.0,10.0,2.63,0.0
+Cobertura ESF,Saúde,Pontuação 0-10,"Indicador componente da dimensão Saúde, em pontuação padronizada",IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,0.0,10.0,8.05,0.0
+Cobertura Vacinal tetravalente,Saúde,Pontuação 0-10,"Indicador componente da dimensão Saúde, em pontuação padronizada",IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,0.0,10.0,7.61,0.0
+Cobertura ESF - Saúde Bucal,Saúde,Pontuação 0-10,"Indicador componente da dimensão Saúde, em pontuação padronizada",IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,0.0,10.0,8.48,0.0
+Leitos SUS por 1.000 hab.,Saúde,Pontuação 0-10,"Indicador componente da dimensão Saúde, em pontuação padronizada",IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,0.0,10.0,4.72,0.0
+Médicos SUS por 1.000 hab.,Saúde,Pontuação 0-10,"Indicador componente da dimensão Saúde, em pontuação padronizada",IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,0.0,10.0,5.75,0.0
+Mortalidade Infantil,Saúde,Pontuação 0-10,"Indicador componente da dimensão Saúde, em pontuação padronizada",IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,0.0,10.0,8.78,0.0
+Morte por causas externas (violentas),Saúde,Pontuação 0-10,"Indicador componente da dimensão Saúde, em pontuação padronizada",IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,0.0,10.0,6.75,0.0
+Prenatal c/ 7 consultas,Saúde,Pontuação 0-10,"Indicador componente da dimensão Saúde, em pontuação padronizada",IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,0.0,10.0,5.98,0.0
+Crimes contra a dignidade sexual,Segurança,Pontuação 0-10,"Indicador componente da dimensão Segurança, em pontuação padronizada",IMB / BDE-Goiás,2012/2014/2016/2018/2020,0.0,10.0,7.58,16.7
+Crimes contra a pessoa,Segurança,Pontuação 0-10,"Indicador componente da dimensão Segurança, em pontuação padronizada",IMB / BDE-Goiás,2012/2014/2016/2018/2020,0.0,10.0,7.26,16.7
+Crimes contra o patrimônio,Segurança,Pontuação 0-10,"Indicador componente da dimensão Segurança, em pontuação padronizada",IMB / BDE-Goiás,2012/2014/2016/2018/2020,0.0,10.0,7.6,16.7
+Contravenções penais,Segurança,Pontuação 0-10,"Indicador componente da dimensão Segurança, em pontuação padronizada",IMB / BDE-Goiás,2012/2014/2016/2018/2020,0.0,10.0,8.39,16.7
+Tráfico de drogas,Segurança,Pontuação 0-10,"Indicador componente da dimensão Segurança, em pontuação padronizada",IMB / BDE-Goiás,2012/2014/2016/2018/2020,0.0,10.0,8.16,16.7
+Empregos formais,Trabalho,Pontuação 0-10,"Indicador componente da dimensão Trabalho, em pontuação padronizada",IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,0.0,10.0,1.86,0.0
+Nível de escolaridade dos trabalhadores,Trabalho,Pontuação 0-10,"Indicador componente da dimensão Trabalho, em pontuação padronizada",IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,0.0,10.0,4.13,0.0
+Remuneração mediana,Trabalho,Pontuação 0-10,"Indicador componente da dimensão Trabalho, em pontuação padronizada",IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,0.0,10.0,2.24,0.0
+Variação do número de empregos formais,Trabalho,Pontuação 0-10,"Indicador componente da dimensão Trabalho, em pontuação padronizada",IMB / BDE-Goiás,2012/2014/2016/2018/2020/2024,0.0,10.0,3.85,0.0

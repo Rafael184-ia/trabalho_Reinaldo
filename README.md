@@ -1,7 +1,7 @@
 # Desempenho dos municípios goianos: análise e previsão do IDM Economia
 
 **Disciplina:** Big Data e Data Science · **Professor:** Reinaldo Jr · **FATESG 2026/01**
-**Integrantes:** _(preencher com os nomes do grupo)_
+**Integrantes:** _(Rafael Alves Aquino,Diogo de Souza Pereira e Marco Antonio Souza Gomes)_
 **Data de entrega/apresentação:** 17/11/2026
 
 ---
